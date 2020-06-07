@@ -1,0 +1,13 @@
+body {
+    background-image: url(../portfolio/images/rainbow_texture679.jpg);
+}
+
+
+
+.carousel-inner {
+   margin-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+    height: 1000px;
+    width: 1000px;
+}
